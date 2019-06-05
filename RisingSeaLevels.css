@@ -1,0 +1,65 @@
+/* Olivia Bocchetti
+* 5/17/19 
+*/ My Cause;Rising Sea Levels
+
+/* The universal selector */
+
+* { 
+margin: 0;
+padding: 0;
+}
+
+
+
+/* Body properties here */ 
+
+body {
+    background-color: azure;
+}
+
+
+h1 { text-align: center;
+    text-decoration: underline overline; 
+    color: cadetblue; /* color for text */  }
+
+h3 {color: darkseagreen;}
+
+#Glacier {
+    height: 200px; 
+    width: 300px;
+    float: left;
+    margin: 15px;
+border-style: dashed}
+
+#Glacier2 {
+   height: 180px;
+   width: 220px;
+   float:left;
+    margin: 9px;
+border-style: solid}
+
+#waterrising {
+   height: 180px;
+    width: 220px;
+    float: left;
+    margin: 15px;
+border-style: solid}
+
+#street{
+    height: 180px;
+    width: 220px;
+    float: left;
+    margin: 15px;
+border-style: solid}
+    
+#kayak{
+    height: 180px;
+    width: 220px;
+    float: left;
+    margin: 15px;
+border-style: solid}
+    
+
+header {border-bottom: 2px solid blue;}
+footer {border-bottom: 2px solid blue;}
+
